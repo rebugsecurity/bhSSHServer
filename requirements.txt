@@ -1,0 +1,6 @@
+sockets
+socks
+paramiko
+threading
+rsa
+cryptography
